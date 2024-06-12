@@ -10,11 +10,13 @@ poi prosegue creando il file wxnow.txt pronto per Direwolf e APRS.
 
 #
 
-Formato MQTT 
+Formato MQTT :
 
 home/stanza/oggetto/ oppure sonda/esterno/nord
 
-Formato WX per APRS 
+#
+
+Formato WX per APRS :
 
 Jun 01 2003 08:07
 
