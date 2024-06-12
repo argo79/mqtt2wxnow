@@ -2,9 +2,9 @@
 
 Doppio script:
 
-Mqtt-sequenziale.sh può essere inserito in crontab,
+Mqtt2wxnow.sh può essere inserito in crontab,
 
-lancia Mqtt2prova.sh che sottoscrive diversi topic in un broker (salva timestamp e payload in sigoli files),
+lancia MqttSub.sh che sottoscrive diversi topic in un broker (salva timestamp e payload in sigoli files),
 
 poi prosegue creando il file wxnow.txt pronto per Direwolf e APRS.
 
