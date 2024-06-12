@@ -5,7 +5,7 @@
 
 broker_ip="192.168.1.11"
 
-dir="/home/kevin/blobspace/mqtt2wxnow"
+dir="~/mqtt2wxnow"
 
 $dir/./Mqtt2prova.sh &
 
