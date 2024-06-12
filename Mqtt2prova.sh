@@ -1,6 +1,7 @@
 #!/bin/bash
 #
 # SCRITTO DA ME, ARG0, PER USARE I DATI IN MQTT E SALVARLI IN WXNOW.TXT PER DIREWOLF E APRS
+# Questo script viene eseguito all'interno di Mqtt-sequenziale.sh, attiva le sottoscrizioni al broker e salva il timestamp e il payload di ogni topic
 ##########################################################################################
 
 
@@ -8,14 +9,6 @@
 #temp=0
 #umi=0
 broker_ip="192.168.1.11"
-
-## declare the array
-declare -a my_array=( "Hydrogen" "Helium" "Lithium" "Beryllium" )
-
-## print element
-echo ${my_array[1]}
-
-declare -a valori=()
 
 dir="/home/kevin/blobspace/mqtt2wxnow"
 cont=0
