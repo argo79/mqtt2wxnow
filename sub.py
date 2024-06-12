@@ -5,7 +5,7 @@ import os.path
 from datetime import datetime
 from paho.mqtt import client as mqtt_client
 
-save_path = '/home/kevin/blobspace/mqtt2wxnow'
+save_path = '~/mqtt2wxnow'
 
 temp=0
 tempF=0
