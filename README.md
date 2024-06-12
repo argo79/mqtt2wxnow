@@ -12,7 +12,7 @@ poi prosegue creando il file wxnow.txt pronto per Direwolf e APRS.
 
 Formato MQTT :
 
-home/stanza/oggetto/temperatura payload oppure sonda/esterno/nord/pressione payload
+home/stanza/oggetto/temperatura 21.7 oppure sonda/esterno/nord/pressione 1013.3
 
 #
 
