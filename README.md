@@ -28,6 +28,13 @@ Jun 01 2003 08:07
 
 # esp32   ------->  MqttSub + Mqtt2wxnow  ------->    Direwolf
 
+
+Lo stesso programma in python 3
+
+mqtt2wxnow.py
+
+#
+
 Arg0net 2024
 
 IU3IOK-1 on https://aprs.fi/info/a/IU3IOK-1
