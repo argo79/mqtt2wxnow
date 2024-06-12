@@ -8,6 +8,17 @@ lancia Mqtt2prova.sh che sottoscrive diversi topic in un broker (salva timestamp
 
 poi prosegue creando il file wxnow.txt pronto per Direwolf e APRS.
 
+Formato MQTT 
+
+home/stanza/oggetto/ oppure sonda/esterno/nord
+
+Formato WX per APRS 
+
+Jun 01 2003 08:07
+
+272/000g006t069r010p030P020h61b10150
+
+
 # MQTT ----------> MosquittoBroker --------->    WXNOW.TXT
 
 # esp32     Mqtt2prova + Mqtt-sequenziale        Direwolf
