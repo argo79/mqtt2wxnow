@@ -68,3 +68,4 @@ sleep 5
 killall -9 Mqtt2prova.sh
 sleep 5
 killall -9 mosquitto_sub
+exit 0
