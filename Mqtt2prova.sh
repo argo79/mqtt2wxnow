@@ -8,12 +8,9 @@
 #press=0
 #temp=0
 #umi=0
-broker_ip="192.168.1.11"
+broker_ip="*.*.*.*"    # indirizzo ip del broker
 
 dir="~/mqtt2wxnow"
-cont=0
-n=0
-
 
 while true
 do
