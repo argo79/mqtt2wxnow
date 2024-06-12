@@ -12,7 +12,7 @@ poi prosegue creando il file wxnow.txt pronto per Direwolf e APRS.
 
 Formato MQTT :
 
-home/stanza/oggetto/ oppure sonda/esterno/nord
+home/stanza/oggetto/payload oppure sonda/esterno/nord/payload
 
 #
 
