@@ -3,7 +3,7 @@
 # A questo punto Mqtt-sequenziale prosegue manipolando un po' i dati e genera un file wxnow.txt pronto per il programma Direwolf che lo può inviare alla rete.
 
 
-broker_ip="192.168.1.11"
+broker_ip="*.*.*.*"    # indirizzo ip del broker
 
 dir="~/mqtt2wxnow"
 
