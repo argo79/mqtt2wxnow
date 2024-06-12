@@ -67,3 +67,4 @@ do
 	# echo -n "	" >> $dir/today.txt
 	
 done
+exit 0
