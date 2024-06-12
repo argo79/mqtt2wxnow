@@ -26,7 +26,7 @@ Jun 01 2003 08:07
 
 # MQTT -----------> MosquittoBroker ----------->    WXNOW.TXT
 
-# esp32   --->  Mqtt2prova + Mqtt-sequenziale  --->    Direwolf
+# esp32   ----->  MqttSub + Mqtt2wxnow  ----->    Direwolf
 
 Arg0net 2024
 
