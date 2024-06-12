@@ -14,4 +14,4 @@ poi prosegue creando il file wxnow.txt pronto per Direwolf e APRS.
 
 Arg0net 2024
 
-IU3IOK-1 on www.aprs.fi
+IU3IOK-1 on https://aprs.fi/info/a/IU3IOK-1
