@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # SCRITTO DA ME, ARG0, PER USARE I DATI IN MQTT E SALVARLI IN WXNOW.TXT PER DIREWOLF E APRS
-# Questo script viene eseguito all'interno di Mqtt-sequenziale.sh, attiva le sottoscrizioni al broker e salva il timestamp e il payload di ogni topic
+# Questo script viene eseguito all'interno di Mqtt-sequenziale.sh, attiva le sottoscrizioni al broker e salva il timestamp e il payload di ogni topic in singoli files
 ##########################################################################################
 
 
