@@ -10,7 +10,7 @@
 #umi=0
 broker_ip="192.168.1.11"
 
-dir="/home/kevin/blobspace/mqtt2wxnow"
+dir="~/mqtt2wxnow"
 cont=0
 n=0
 
