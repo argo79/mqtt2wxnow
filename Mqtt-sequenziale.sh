@@ -7,7 +7,7 @@ broker_ip="*.*.*.*"    # indirizzo ip del broker
 
 dir="~/mqtt2wxnow"
 
-$dir/./Mqtt2prova.sh &
+$dir/./MqttSub.sh &
 
 sleep 45 # tempo di esecuzione di mosquitto_sub. Il temnpo dipende anche dalla frequenza di aggiornamento dei dati mqtt
 
